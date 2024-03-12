@@ -9,3 +9,4 @@ git remote -v
 git pull origin main
 git set-url --add
 gir set-url --delete 
+git set-url --add url
