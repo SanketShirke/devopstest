@@ -2,3 +2,6 @@ git init
 git status
 git branch 
 git checkout -b branch 
+git log --oneline
+git log
+git config 
