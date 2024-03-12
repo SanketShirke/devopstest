@@ -5,3 +5,5 @@ git checkout -b branch
 git log --oneline
 git log
 git config 
+git remote -v 
+git pull origin main
