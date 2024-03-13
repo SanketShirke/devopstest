@@ -10,3 +10,9 @@ git pull origin main
 git set-url --add
 gir set-url --delete 
 git set-url --add url
+git reset 
+git revert
+git stash
+git stash pop
+git merge 
+git .ignore
